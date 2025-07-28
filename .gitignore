@@ -1,0 +1,32 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# VS Code or IDE settings
+.vscode/
+.idea/
+
+# Virtual environments
+venv/
+env/
+
+# Streamlit cache (optional, but helpful)
+.streamlit/config.toml
+*.streamlit-*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Data / Logs (optional)
+*.log
+data/
+
+#info file
+info.txt
